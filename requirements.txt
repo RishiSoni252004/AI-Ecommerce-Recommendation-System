@@ -1,0 +1,68 @@
+# Core dependencies
+pyspark
+delta-spark
+mlflow
+kafka-python
+fastapi
+uvicorn
+
+# Data processing
+pandas
+numpy
+scipy
+scikit-learn
+
+# ML libraries
+implicit
+lightgbm
+
+# Database
+sqlalchemy
+psycopg2-binary
+redis
+
+# API and serialization
+pydantic
+requests
+httpx
+
+# Monitoring and logging
+prometheus-client
+structlog
+loguru
+
+# Configuration
+pyyaml
+python-dotenv
+hydra-core
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+hypothesis
+
+# Async
+aiofiles
+aioredis
+
+# Utilities
+click
+tqdm
+joblib
+
+# Jupyter for development
+jupyter
+ipykernel
+matplotlib
+seaborn
+plotly
+
+# Development tools
+black
+flake8
+isort
+pre-commit
+
+# Docker support
+gunicorn

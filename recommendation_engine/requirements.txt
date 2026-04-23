@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+pymongo
+redis
+kafka-python

@@ -1,0 +1,15 @@
+artifact_path: /Volumes/External/Real-Time-Recommendation-Engine/Real-Time-Recommendation-Engine/mlflow_artifacts/3/models/m-3a053b4d2c8b4dd8a8251cfdff9f101e/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-3a053b4d2c8b4dd8a8251cfdff9f101e
+model_size_bytes: 803009
+model_uuid: m-3a053b4d2c8b4dd8a8251cfdff9f101e
+prompts: null
+run_id: a4d3831399624838bb74d2968835f70b
+utc_time_created: '2026-03-26 05:33:08.155420'
